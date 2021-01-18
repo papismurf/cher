@@ -22,32 +22,6 @@ Saleor requires Python 3.8, Node.js 10.0+, PostgreSQL and OS-specific dependency
 
 [See the Saleor docs](https://docs.saleor.io/docs/developer/installation) for step-by-step installation and deployment instructions.
 
-Note:
-The `master` branch is the development version of Saleor and it may be unstable. To use the latest stable version, download it from the [Releases](https://github.com/mirumee/saleor/releases/) page or switch to a release tag.
-
-The current stable version is 2.11 and you should use this version for all three components:
-
-- Saleor: https://github.com/mirumee/saleor/releases/tag/2.11.1
-- Dashboard: https://github.com/mirumee/saleor-dashboard/releases/tag/2.11.1
-- Storefront: https://github.com/mirumee/saleor-storefront/releases/tag/2.11.0
-
-## Documentation
-
-Saleor documentation is available here: [docs.saleor.io](https://docs.saleor.io)
-
-To contribute, please see the [`mirumee/saleor-docs` repository](https://github.com/mirumee/saleor-docs/).
-
-## Saleor Platform
-
-The easiest way to run all components of Saleor (API, storefront and dashboard) together on your local machine is to use the [saleor-platform](https://github.com/mirumee/saleor-platform) project. Go to that repository for instructions on how to use it.
-
-[View saleor-platform](https://github.com/mirumee/saleor-platform)
-
-## Storefront
-
-For PWA, single-page storefront go to the [saleor-storefront](https://github.com/mirumee/saleor-storefront) repository.
-
-[View storefront demo](https://demo.saleor.io/)
 
 ## Dashboard
 
