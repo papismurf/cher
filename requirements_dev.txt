@@ -120,7 +120,7 @@ packaging==20.8; python_version >= "3.6" and python_full_version < "3.0.0" or py
 pathspec==0.8.1; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" and python_version >= "3.6"
 petl==1.7.1; (python_version >= "2.7" and python_full_version < "3.0.0") or (python_full_version >= "3.4.0")
 phonenumberslite==8.12.15
-pillow==9.0.1; python_version >= "3.6"
+pillow==10.2.0; python_version >= "3.6"
 pluggy==0.13.1; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" and python_version >= "3.6"
 pre-commit==2.9.3; python_full_version >= "3.6.1"
 prices==1.1.0
