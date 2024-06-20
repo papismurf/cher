@@ -125,7 +125,7 @@ pluggy==0.13.1; python_version >= "3.6" and python_full_version < "3.0.0" or pyt
 pre-commit==2.9.3; python_full_version >= "3.6.1"
 prices==1.1.0
 promise==2.3
-prompt-toolkit==3.0.9; python_full_version >= "3.6.1" and python_version >= "3.6"
+prompt-toolkit==3.0.13; python_full_version >= "3.6.1" and python_version >= "3.6"
 proto-plus==1.13.0; python_version >= "3.6"
 protobuf==3.14.0; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.6.0" and python_version >= "3.6"
 psycopg2-binary==2.8.6; (python_version >= "2.7" and python_full_version < "3.0.0") or (python_full_version >= "3.4.0")
